@@ -1,4 +1,5 @@
 # Task 2 - Connect and program an electronic circuit
+![image](https://github.com/Ghalastic/Robot-Walking-Motion/assets/173709501/84e0dcd4-0fad-42df-a428-c03124eee2c2)
 
 Connect and program an electronic circuit containing 6 servo motors on the simulation program "Tinkercad"
 
