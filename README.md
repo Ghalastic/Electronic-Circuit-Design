@@ -18,4 +18,4 @@ Tinkercad
 C++
 
 ### Link
-[Tinkercad Circuit Design Link](https://www.tinkercad.com/things/gvGrAR9GeyW-6-servo-motors-leg-joint-walking-motion-for-a-robot)
+[Tinkercad Electronic Circuit Design](https://www.tinkercad.com/things/gvGrAR9GeyW-6-servo-motors-leg-joint-walking-motion-for-a-robot)
